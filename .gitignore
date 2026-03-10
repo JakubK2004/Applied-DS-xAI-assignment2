@@ -1,2 +1,3 @@
-# ignore everything in data
-data/chest_xray
+/data/*
+!/data/processed/
+!/data/processed/**
