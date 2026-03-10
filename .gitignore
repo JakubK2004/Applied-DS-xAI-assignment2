@@ -1,0 +1,8 @@
+# ignore everything in data
+/data/*
+
+# keep processed folder
+!/data/processed/
+
+# keep everything inside processed
+!/data/processed/**
